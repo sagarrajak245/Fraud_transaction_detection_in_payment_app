@@ -1,4 +1,4 @@
-# 💡 Financial Fraud Detection: A Machine Learning Approach
+# 💡 Financial Fraud Detection in Transactions: A Machine Learning Approach
 
 ## 📘 Project Overview
 
