@@ -31,6 +31,18 @@ The financial industry faces unprecedented challenges with fraud detection, wher
 - [Future Enhancements](#future-enhancements)
 
 ---
+## 🚀 Deployed Model Access
+
+🔗 **Model Repository on Hugging Face**:
+👉 [sagarrajak245/fbi\_fraud\_transaction\_detector](https://huggingface.co/sagarrajak245/fbi_fraud_transaction_detector)
+
+You can download or load the model directly using the `huggingface_hub` library:
+
+```python
+from huggingface_hub import hf_hub_download
+
+model_path = hf_hub_download(repo_id="sagarrajak245/fbi_fraud_transaction_detector", filename="xgb_fraud_detection_model.pkl")
+```
 
 ## Dataset Overview
 
@@ -764,4 +776,10 @@ By combining machine learning, deep behavioral insights, and a strategic risk fr
 🛡️💻🔍
 
 ---
+
+
+
+
+
+
 
